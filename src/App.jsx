@@ -10,6 +10,9 @@ import Navbar from "./components/Navbar";
 import UsuarioCadastro from './pages/UsuarioCadastro';
 import UsuarioLogin from './pages/UsuarioLogin';
 import BemVindo from './pages/BemVindo';
+import SobreNos from './pages/SobreNos';
+
+
 
 
 function App() {
